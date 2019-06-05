@@ -1,0 +1,15 @@
+import React, { Component } from 'react';
+import Nav from './nav';
+
+class App extends Component {
+  render() {
+
+    return (
+        <div className="">
+            <Nav />
+        </div>
+    );
+  }
+}
+
+export default App;
