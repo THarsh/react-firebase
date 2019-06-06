@@ -1,4 +1,11 @@
-.mian {
+.input-section {
+  padding: 50px;
+  margin: 50px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  -webkit-box-shadow: 2px 3px 57px 22px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 2px 3px 57px 22px rgba(0, 0, 0, 0.15);
+  box-shadow: 2px 3px 57px 22px rgba(0, 0, 0, 0.15);
   text-align: center; }
-  .mian h4 {
-    color: red; }
+  .input-section input {
+    margin-bottom: 20px; }
